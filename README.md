@@ -7,16 +7,20 @@ This repository contains the source code for my personal portfolio website, buil
 ## Table of Contents
 
 - [Portfolio Website](#portfolio-website)
-  - [Table of Contents](#table-of-contents)
   - [Sections](#sections)
   - [Features](#features)
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Contact](#contact)
 
 ## Sections
+### Projects Section
+![Projects Section](screenshot1.png)
+![Projects Section](screenshot2.png)
+![Projects Section](screenshot3.png)
+![Projects Section](screenshot4.png)
+![Projects Section](screenshot5.png)
 
 The portfolio website consists of the following sections:
 
