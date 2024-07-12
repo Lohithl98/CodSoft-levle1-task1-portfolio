@@ -16,7 +16,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Sections
 ### Projects Section
-![Projects Section](screenshot1.png)
+![Projects Section](portfolio/screenshot1.png)
 ![Projects Section](screenshot2.png)
 ![Projects Section](screenshot3.png)
 ![Projects Section](screenshot4.png)
