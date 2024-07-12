@@ -1,4 +1,4 @@
-# CodSoft-levle1-task1-portfolio
+![Screenshot4](https://github.com/user-attachments/assets/91612435-2e3e-4307-a394-80266aa35088)# CodSoft-levle1-task1-portfolio
 This repository contain protfolio . The task given by CodSoft 
 # Portfolio Website
 
@@ -16,11 +16,12 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Sections
 ### Projects Section
-![Projects Section](portfolio/Screenshot1.png)
-![Projects Section](portfolio/Screenshot2.png)
-![Projects Section](portfolio/Screenshot3.png)
-![Projects Section](portfolio/Screenshot4.png)
-![Projects Section](portfolio/Screenshot5.png)
+![Screenshot1](https://github.com/user-attachments/assets/2632e6a4-1b1a-4b9c-9f1e-646d8ce148e2)
+![Screenshot2](https://github.com/user-attachments/assets/f9d6d0df-9cdf-4f8f-972a-d83dcccc715d)
+![Screenshot3](https://github.com/user-attachments/assets/935a214a-983e-465e-a51f-d5484378236e)
+![Screenshot4](https://github.com/user-attachments/assets/8944d52a-ce12-4c99-afb7-b1cd875ed26a)
+![image](https://github.com/user-attachments/assets/f3b252b3-4052-4ef4-bc15-945d21b6bfa3)
+
 
 The portfolio website consists of the following sections:
 
