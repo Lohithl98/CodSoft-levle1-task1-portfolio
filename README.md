@@ -16,11 +16,11 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Sections
 ### Projects Section
-![Projects Section](portfolio/screenshot1.png)
-![Projects Section](screenshot2.png)
-![Projects Section](screenshot3.png)
-![Projects Section](screenshot4.png)
-![Projects Section](screenshot5.png)
+![Projects Section](portfolio/Screenshot1.png)
+![Projects Section](portfolio/Screenshot2.png)
+![Projects Section](portfolio/Screenshot3.png)
+![Projects Section](portfolio/Screenshot4.png)
+![Projects Section](portfolio/Screenshot5.png)
 
 The portfolio website consists of the following sections:
 
